@@ -6,15 +6,6 @@ An interactive dashboard to analyze sales performance, trends, and business insi
 
 <hr>
 
-<h2>🔗 Project Link</h2>
-<p>
-👉 <a href="https://github.com/Omkar2304/PowerBI--Sales-Dashboard" target="_blank">
-View Repository
-</a>
-</p>
-
-<hr>
-
 <h2>📌 Project Overview</h2>
 <p>
 This project showcases an <b>interactive Power BI Sales Dashboard</b> designed to analyze and visualize sales data.
@@ -27,6 +18,14 @@ It helps businesses track performance, identify trends, and make data-driven dec
 <li>Monitor key business metrics</li>
 <li>Enable better decision-making</li>
 </ul>
+
+<hr>
+
+<h2>📸 Dashboard Preview</h2>
+
+<p align="center">
+<img src= "https://github.com/Omkar2304/PowerBI--Sales-Dashboard/blob/5cf7d86585762b5780dcc04e2bcf34f3f49e25eb/Screenshot%202026-05-19%20182240.png">
+</p>     
 
 <hr>
 
